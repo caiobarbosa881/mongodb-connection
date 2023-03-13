@@ -2,6 +2,7 @@
   "dependencies": {
     "@types/mongoose": "^5.11.97",
     "dotenv": "^16.0.3",
+    "moongose": "^1.0.0",
     "typescript": "^4.9.5"
   }
 }
