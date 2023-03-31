@@ -9,6 +9,8 @@ O objetivo do projeto é conectar uma aplicação nodeJS com um banco de dados n
 
 É um banco de dados que não usa o esquema de tabela de linhas e colunas encontrado na maioria dos sistemas de banco de dados tradicionais. O mongoDB seria um desses banco de dados não relacionais.
 
+No mongoDB nós podemos utilizar JSON por exemplo diferente de um banco de dados relacional padrão.
+
 ## Dependências de Desenvolvimento
 
     @types/mongoose
