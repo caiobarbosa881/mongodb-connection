@@ -13,6 +13,10 @@ O objetivo do projeto é conectar uma aplicação nodeJS com um banco de dados n
 
 No mongoDB nós podemos utilizar JSON por exemplo diferente de um banco de dados relacional padrão.
 
+## TypeScript
+
+Utilizado para adicionar tipagem estática ao javascript, são os arquivos com final .ts
+
 ## Dependências de Desenvolvimento
 
     @types/mongoose
