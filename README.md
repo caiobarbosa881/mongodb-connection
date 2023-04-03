@@ -15,7 +15,8 @@ No mongoDB nós podemos utilizar JSON por exemplo diferente de um banco de dados
 
 ## TypeScript
 
-Utilizado para adicionar tipagem estática ao javascript, são os arquivos com final .ts
+É um superset utilizado para adicionar tipagem estática ao javascript, são os arquivos com final .ts
+evitando possíveis erros de tipos ao longo do desenvolvimento.
 
 ## Dependências de Desenvolvimento
 
