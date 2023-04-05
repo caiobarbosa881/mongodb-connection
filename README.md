@@ -2,6 +2,10 @@
 
 O objetivo do projeto é conectar uma aplicação nodeJS com um banco de dados não relacional sendo o MongoDB o escolhido. Além disso também adiciona um Usuário quando se conecta.
 
+## Rest
+
+É um estilo de arquitetura de software muito comum, se chama originalmente Representational State Transfer.
+
 ## ODM
  O projeto utiliza o Moongose que é um Object Data Manager (ODM), ele é utilizado pelo fato que o MongoDB é um banco de dados não relacional orientado a documentos.
 
