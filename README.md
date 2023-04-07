@@ -29,5 +29,9 @@ evitando possíveis erros de tipos ao longo do desenvolvimento.
     typescript
     moongose
 
+## Yarn
+
+Estamos utilizando o yarn um gerenciador de pacotes Javascript/Nodejs, assim como o npm e o PNPM
+
 ## Autores
 - [@Caio Barbosa](https://github.com/caiobarbosa881)
