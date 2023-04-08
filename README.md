@@ -33,5 +33,9 @@ evitando possíveis erros de tipos ao longo do desenvolvimento.
 
 Estamos utilizando o yarn um gerenciador de pacotes Javascript/Nodejs, assim como o npm e o PNPM
 
+## tsconfig.json
+
+Responsável por configurar o nosso typescript no projeto.
+
 ## Autores
 - [@Caio Barbosa](https://github.com/caiobarbosa881)
