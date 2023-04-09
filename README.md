@@ -36,6 +36,7 @@ Estamos utilizando o yarn um gerenciador de pacotes Javascript/Nodejs, assim com
 ## tsconfig.json
 
 Responsável por configurar o nosso typescript no projeto.
+Assim você pode definir regras bem definidas no typescript e como você vai programar o projeto.
 
 ## Autores
 - [@Caio Barbosa](https://github.com/caiobarbosa881)
