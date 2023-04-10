@@ -11,6 +11,10 @@ O objetivo do projeto é conectar uma aplicação nodeJS com um banco de dados n
 
  Se estivessemos em um banco de dados relacional(Mysql, Postgresql e etc) então nós utilizaríamos um ORM.
 
+## .env-example
+
+Você pode setar variáveis de ambiente que vão ir de acordo com seus interesses, é apenas necessário renomear o .env-example para .env e passar os valores que você quer.
+
 ## Banco de dados não relacional
 
 É um banco de dados que não usa o esquema de tabela de linhas e colunas encontrado na maioria dos sistemas de banco de dados tradicionais. O mongoDB seria um desses banco de dados não relacionais.
